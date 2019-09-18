@@ -1,0 +1,21 @@
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 767px) {
+    #page-wrapper {
+        padding: 0 0px;
+    }
+    .mini-navbar #page-wrapper {
+        padding-left: 15px;
+    }
+    .ibox-content {
+        padding: 3px 4px 4px 4px;
+    }
+    .ibox-title {
+        padding: 15px 4px 3px 8px;
+    }
+    .wrapper-content {
+        padding-top: 0px;
+    }
+    .eeff-text-button {
+        max-width: 5em;
+    }
+}
